@@ -1,0 +1,19 @@
+{
+  "name": "google-books-search",
+  "version": "1.0.0",
+  "description": "HW16 Google Books Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldsc617/Google-Books-Search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldsc617/Google-Books-Search/issues"
+  },
+  "homepage": "https://github.com/ldsc617/Google-Books-Search#readme"
+}
